@@ -1,0 +1,301 @@
+age,weight_kg,sleep,activity,diet,anxiety,irritability,prior_stimulant_use,recommended_med,recommended_dose_mg
+7,26,moderate,low,high_protein,False,False,True,Ritalin,10
+10,38,moderate,medium,high_protein,False,False,True,Ritalin,10
+11,56,good,low,balanced,True,True,True,Strattera,56
+16,65,poor,high,low_protein,True,False,False,Intuniv,2
+13,50,poor,low,high_protein,False,False,False,Intuniv,2
+9,60,poor,low,low_protein,True,True,True,Kapvay,10
+16,42,poor,medium,high_protein,True,False,False,Intuniv,2
+17,30,poor,low,high_protein,True,True,True,Intuniv,2
+10,39,poor,high,low_protein,False,True,True,Strattera,39
+7,33,poor,high,balanced,True,False,False,Kapvay,10
+10,54,moderate,medium,high_protein,False,False,True,Ritalin,10
+9,30,poor,medium,balanced,False,False,False,Kapvay,10
+8,46,moderate,low,balanced,True,False,False,Kapvay,10
+12,53,good,low,high_protein,True,False,False,Ritalin,10
+17,51,moderate,low,balanced,True,False,True,Intuniv,2
+7,62,good,high,balanced,False,True,False,Adderall XR,10
+14,31,moderate,low,balanced,True,False,False,Intuniv,2
+13,25,moderate,medium,low_protein,True,True,True,Kapvay,10
+15,54,good,low,low_protein,False,True,False,Ritalin,10
+14,59,moderate,medium,low_protein,False,False,True,Intuniv,2
+6,25,moderate,high,balanced,False,True,True,Adderall XR,10
+6,70,poor,medium,low_protein,False,True,False,Strattera,70
+13,51,moderate,medium,high_protein,False,True,True,Ritalin,10
+6,28,poor,high,high_protein,False,True,True,Kapvay,10
+8,56,good,high,low_protein,False,True,True,Adderall XR,10
+17,60,poor,medium,high_protein,False,True,False,Strattera,60
+10,52,poor,high,balanced,True,False,True,Intuniv,1
+17,61,poor,medium,balanced,False,True,True,Strattera,61
+15,40,poor,low,low_protein,True,True,True,Strattera,40
+10,26,moderate,medium,balanced,True,False,False,Kapvay,10
+10,36,good,medium,balanced,True,True,False,Strattera,36
+8,47,good,medium,low_protein,False,False,False,Ritalin,10
+8,48,good,high,high_protein,True,True,True,Kapvay,10
+14,31,poor,high,high_protein,True,False,False,Intuniv,2
+16,42,moderate,low,high_protein,False,True,True,Ritalin,10
+16,29,poor,high,high_protein,False,False,True,Kapvay,10
+14,21,good,high,high_protein,True,False,False,Kapvay,10
+7,21,poor,low,low_protein,False,False,True,Intuniv,1
+18,54,poor,high,high_protein,False,False,False,Intuniv,2
+14,62,good,medium,low_protein,False,False,True,Ritalin,10
+17,20,poor,high,balanced,False,False,True,Strattera,20
+18,40,poor,high,balanced,False,False,False,Intuniv,2
+14,36,good,high,high_protein,False,False,False,Vyvanse,30
+7,62,poor,high,low_protein,True,False,True,Kapvay,10
+13,38,poor,medium,high_protein,True,True,True,Strattera,38
+13,57,moderate,high,balanced,False,False,True,Adderall XR,10
+8,28,moderate,low,balanced,False,True,False,Ritalin,10
+14,68,good,medium,high_protein,False,True,False,Intuniv,2
+17,42,moderate,high,high_protein,False,True,False,Adderall XR,10
+16,24,poor,low,low_protein,False,False,False,Kapvay,10
+14,51,good,high,balanced,True,True,False,Strattera,51
+11,63,poor,medium,balanced,False,True,False,Strattera,63
+16,33,good,high,low_protein,True,False,False,Intuniv,2
+14,35,moderate,low,low_protein,False,False,False,Ritalin,10
+7,57,good,high,balanced,True,False,True,Kapvay,10
+17,38,moderate,medium,high_protein,False,True,True,Ritalin,10
+13,21,good,high,low_protein,False,False,False,Adderall XR,10
+12,43,good,high,high_protein,False,False,True,Vyvanse,50
+17,61,moderate,low,high_protein,True,False,False,Intuniv,2
+18,42,poor,low,high_protein,True,False,True,Intuniv,2
+15,38,poor,low,balanced,False,True,False,Strattera,38
+9,39,moderate,high,low_protein,False,True,True,Adderall XR,10
+15,46,moderate,low,balanced,True,True,True,Strattera,46
+17,48,good,low,low_protein,True,True,True,Strattera,48
+7,20,moderate,medium,high_protein,False,True,False,Ritalin,10
+6,48,poor,high,balanced,False,False,True,Kapvay,10
+14,60,poor,high,balanced,False,True,False,Strattera,60
+12,48,moderate,low,high_protein,False,False,True,Ritalin,10
+8,54,good,low,low_protein,False,True,True,Ritalin,10
+8,47,good,low,balanced,True,True,False,Kapvay,10
+17,22,good,medium,low_protein,True,False,True,Kapvay,10
+8,24,moderate,medium,low_protein,True,False,True,Kapvay,10
+7,35,poor,low,high_protein,True,False,True,Kapvay,10
+11,43,moderate,medium,low_protein,False,False,True,Ritalin,10
+12,38,poor,medium,high_protein,True,True,True,Strattera,38
+16,61,poor,low,low_protein,False,True,True,Strattera,61
+11,51,moderate,low,high_protein,True,False,True,Intuniv,1
+12,67,good,high,high_protein,True,False,False,Ritalin,10
+10,49,good,high,high_protein,False,False,True,Vyvanse,50
+14,43,good,high,high_protein,True,True,False,Strattera,43
+13,62,moderate,low,low_protein,True,False,False,Intuniv,2
+11,23,poor,medium,high_protein,False,True,True,Kapvay,10
+16,63,good,high,high_protein,True,True,True,Strattera,63
+14,42,good,low,balanced,True,True,False,Strattera,42
+11,70,moderate,low,high_protein,True,False,False,Intuniv,1
+10,25,good,low,low_protein,False,False,True,Ritalin,10
+11,45,good,medium,balanced,True,True,True,Strattera,45
+6,59,moderate,medium,balanced,True,False,False,Kapvay,10
+11,29,good,medium,low_protein,True,True,True,Kapvay,10
+14,33,moderate,low,low_protein,False,True,False,Ritalin,10
+11,44,poor,medium,balanced,False,True,True,Strattera,44
+6,53,poor,high,high_protein,True,False,True,Kapvay,10
+12,37,moderate,high,balanced,False,True,False,Adderall XR,10
+13,35,good,medium,low_protein,True,True,False,Strattera,35
+12,48,poor,medium,low_protein,False,True,True,Ritalin,10
+10,31,moderate,low,balanced,False,False,False,Ritalin,10
+9,67,poor,high,balanced,False,True,False,Adderall XR,10
+18,45,moderate,low,low_protein,True,False,True,Ritalin,10
+7,54,poor,medium,high_protein,False,True,False,Kapvay,10
+18,65,moderate,low,low_protein,False,True,True,Ritalin,10
+9,37,moderate,high,low_protein,False,True,True,Vyvanse,30
+15,51,good,medium,low_protein,True,True,True,Strattera,51
+15,24,moderate,low,high_protein,False,False,True,Ritalin,10
+14,56,moderate,medium,high_protein,False,True,True,Ritalin,10
+15,60,poor,low,low_protein,False,True,False,Strattera,60
+8,63,poor,high,low_protein,False,True,True,Kapvay,10
+12,65,moderate,high,balanced,False,False,False,Adderall XR,10
+12,50,poor,low,low_protein,False,True,True,Strattera,50
+14,34,good,medium,low_protein,False,True,True,Ritalin,10
+15,47,good,medium,low_protein,False,False,True,Ritalin,10
+13,49,good,high,low_protein,True,False,False,Intuniv,2
+11,30,poor,low,high_protein,True,False,True,Intuniv,1
+17,48,poor,medium,balanced,False,False,True,Ritalin,10
+8,67,poor,low,high_protein,True,True,False,Kapvay,10
+17,30,poor,medium,balanced,False,False,False,Intuniv,2
+15,35,good,high,low_protein,False,False,True,Adderall XR,10
+14,36,poor,low,high_protein,False,False,True,Intuniv,2
+9,48,moderate,medium,balanced,False,True,False,Ritalin,10
+11,31,moderate,medium,high_protein,False,False,False,Ritalin,10
+9,36,poor,high,low_protein,True,False,True,Kapvay,10
+9,47,poor,medium,high_protein,True,True,True,Kapvay,10
+8,24,moderate,low,low_protein,False,False,True,Adderall XR,10
+15,56,moderate,low,low_protein,True,False,False,Intuniv,2
+16,60,poor,medium,high_protein,True,True,True,Strattera,60
+15,21,good,high,balanced,True,False,False,Kapvay,10
+10,50,moderate,low,low_protein,False,False,False,Ritalin,10
+12,55,good,high,balanced,True,False,True,Intuniv,2
+15,60,moderate,low,balanced,False,True,False,Ritalin,10
+18,51,poor,low,high_protein,True,False,False,Intuniv,2
+6,24,poor,low,high_protein,True,False,True,Kapvay,10
+10,31,good,high,low_protein,True,True,False,Strattera,31
+14,30,good,high,balanced,True,True,False,Strattera,30
+11,67,poor,medium,low_protein,False,True,True,Strattera,67
+12,38,poor,medium,low_protein,True,True,False,Strattera,38
+6,25,good,low,low_protein,True,True,True,Kapvay,10
+6,64,good,low,balanced,True,False,True,Kapvay,10
+6,52,good,medium,high_protein,False,False,False,Ritalin,10
+8,63,poor,high,low_protein,False,False,False,Kapvay,10
+14,50,poor,low,balanced,True,True,True,Strattera,50
+14,56,moderate,high,low_protein,True,False,False,Intuniv,2
+15,39,good,low,high_protein,True,False,True,Intuniv,2
+15,42,moderate,low,high_protein,False,True,True,Ritalin,10
+13,68,moderate,low,low_protein,True,False,True,Intuniv,2
+17,30,moderate,low,low_protein,False,False,True,Ritalin,10
+15,31,good,medium,balanced,True,False,False,Intuniv,2
+13,70,moderate,medium,high_protein,True,False,False,Intuniv,2
+15,49,good,medium,low_protein,False,False,False,Ritalin,10
+18,43,moderate,medium,balanced,False,False,False,Ritalin,10
+16,55,good,medium,balanced,True,True,True,Strattera,55
+10,61,poor,medium,high_protein,True,False,True,Intuniv,1
+17,34,good,medium,balanced,False,True,True,Ritalin,10
+13,49,good,low,high_protein,False,False,False,Ritalin,10
+17,54,moderate,high,low_protein,True,True,True,Strattera,54
+17,47,poor,high,high_protein,False,True,True,Strattera,47
+13,45,poor,medium,balanced,True,False,False,Intuniv,2
+9,57,moderate,high,high_protein,False,True,True,Adderall XR,10
+16,60,moderate,high,high_protein,True,False,False,Intuniv,2
+6,25,poor,medium,balanced,False,True,False,Kapvay,10
+13,66,moderate,low,high_protein,True,False,True,Intuniv,2
+6,58,good,low,balanced,False,False,False,Ritalin,10
+17,32,poor,medium,low_protein,True,False,False,Intuniv,2
+14,21,moderate,medium,low_protein,False,True,True,Ritalin,10
+14,43,moderate,medium,balanced,True,False,False,Adderall XR,10
+8,39,poor,medium,low_protein,True,True,True,Kapvay,10
+11,27,poor,high,balanced,True,False,False,Kapvay,10
+17,21,moderate,low,high_protein,False,False,True,Ritalin,10
+10,70,moderate,medium,low_protein,False,False,False,Ritalin,10
+8,48,poor,medium,high_protein,True,True,True,Kapvay,10
+17,61,good,high,low_protein,False,True,True,Adderall XR,10
+15,47,moderate,high,low_protein,True,True,False,Strattera,47
+10,45,poor,medium,high_protein,True,True,True,Strattera,45
+15,59,moderate,low,balanced,True,False,True,Intuniv,2
+6,25,moderate,medium,balanced,False,False,True,Ritalin,10
+7,66,moderate,medium,low_protein,False,True,True,Ritalin,10
+7,32,moderate,medium,high_protein,True,False,True,Kapvay,10
+7,49,moderate,medium,balanced,False,False,True,Ritalin,10
+15,59,moderate,high,balanced,False,True,True,Adderall XR,10
+16,43,poor,high,high_protein,False,True,True,Strattera,43
+15,63,poor,medium,low_protein,True,True,True,Strattera,63
+10,65,poor,high,high_protein,False,True,False,Strattera,65
+9,57,poor,medium,balanced,False,False,False,Kapvay,10
+7,46,good,medium,low_protein,False,False,True,Ritalin,10
+15,21,poor,high,low_protein,False,False,True,Kapvay,10
+15,66,moderate,low,low_protein,False,False,True,Ritalin,10
+10,66,poor,high,balanced,False,False,False,Intuniv,1
+15,64,poor,low,balanced,False,False,False,Intuniv,2
+14,33,good,low,balanced,False,False,False,Ritalin,10
+10,41,moderate,high,balanced,False,False,True,Kapvay,10
+10,20,good,medium,balanced,False,False,True,Ritalin,10
+13,37,poor,low,high_protein,True,False,True,Intuniv,2
+13,59,good,high,high_protein,False,True,True,Adderall XR,10
+12,44,good,high,high_protein,False,False,True,Vyvanse,50
+16,57,good,high,low_protein,False,True,True,Adderall XR,10
+14,60,good,low,balanced,False,False,False,Ritalin,10
+7,33,poor,high,high_protein,True,True,True,Kapvay,10
+11,57,moderate,high,low_protein,False,True,False,Adderall XR,10
+11,55,moderate,high,high_protein,True,False,False,Intuniv,1
+12,61,moderate,high,high_protein,False,False,True,Vyvanse,50
+18,23,good,high,low_protein,True,False,True,Kapvay,10
+12,48,good,high,balanced,True,True,True,Strattera,48
+10,69,good,medium,low_protein,False,True,False,Ritalin,10
+6,34,poor,low,balanced,False,False,True,Kapvay,10
+6,52,moderate,low,low_protein,True,False,True,Kapvay,10
+16,65,good,high,balanced,False,False,True,Adderall XR,10
+16,51,moderate,medium,low_protein,False,True,False,Ritalin,10
+11,45,poor,high,low_protein,False,False,True,Intuniv,1
+15,21,moderate,high,high_protein,True,True,False,Kapvay,10
+11,40,poor,low,high_protein,True,True,False,Intuniv,1
+9,54,good,medium,balanced,False,True,True,Kapvay,10
+17,63,moderate,medium,low_protein,True,False,True,Intuniv,2
+16,47,good,low,high_protein,True,False,True,Intuniv,2
+17,30,good,high,high_protein,False,True,True,Adderall XR,10
+9,31,poor,medium,high_protein,False,False,False,Kapvay,10
+15,59,good,high,high_protein,True,False,False,Strattera,59
+11,44,moderate,low,high_protein,True,True,True,Strattera,44
+14,58,poor,high,high_protein,False,False,False,Ritalin,10
+8,41,poor,high,balanced,False,False,True,Kapvay,10
+6,56,moderate,high,balanced,False,False,False,Ritalin,10
+7,45,good,high,high_protein,False,False,False,Kapvay,10
+10,69,poor,medium,low_protein,False,False,False,Intuniv,1
+9,64,moderate,medium,low_protein,True,False,False,Kapvay,10
+13,22,poor,medium,balanced,False,False,True,Ritalin,10
+14,47,moderate,low,low_protein,False,True,False,Ritalin,10
+16,59,poor,medium,low_protein,True,True,True,Strattera,59
+10,67,good,high,high_protein,True,True,True,Strattera,67
+12,61,poor,high,high_protein,False,False,False,Intuniv,2
+8,68,good,medium,low_protein,False,True,True,Ritalin,10
+18,63,moderate,low,high_protein,True,True,False,Strattera,63
+13,58,poor,high,high_protein,True,False,False,Intuniv,2
+9,24,good,high,high_protein,True,False,True,Kapvay,10
+16,46,good,low,low_protein,True,True,True,Strattera,46
+18,61,good,high,high_protein,False,True,True,Adderall XR,10
+11,57,moderate,high,high_protein,False,False,False,Vyvanse,50
+16,59,poor,low,balanced,False,False,False,Intuniv,2
+9,69,poor,medium,high_protein,False,False,False,Kapvay,10
+14,61,good,high,balanced,True,False,False,Intuniv,2
+12,27,moderate,low,high_protein,True,True,False,Kapvay,10
+8,29,moderate,medium,high_protein,True,True,True,Kapvay,10
+18,27,moderate,medium,high_protein,False,True,True,Ritalin,10
+15,50,poor,medium,balanced,True,True,False,Strattera,50
+9,22,moderate,medium,balanced,False,False,False,Adderall XR,10
+7,45,good,low,low_protein,True,True,False,Kapvay,10
+9,61,good,low,balanced,False,False,True,Ritalin,10
+7,57,poor,high,balanced,True,False,True,Vyvanse,50
+6,21,poor,low,balanced,True,False,True,Kapvay,10
+13,62,good,low,low_protein,True,False,False,Intuniv,2
+18,48,poor,low,high_protein,False,False,False,Intuniv,2
+18,27,good,low,high_protein,True,True,True,Intuniv,2
+17,32,moderate,medium,low_protein,True,True,True,Strattera,32
+10,57,moderate,high,high_protein,True,False,True,Intuniv,1
+9,52,poor,high,low_protein,True,False,True,Kapvay,10
+8,65,poor,medium,balanced,False,False,True,Kapvay,10
+15,41,poor,low,low_protein,True,False,True,Intuniv,2
+12,48,moderate,high,balanced,False,False,False,Adderall XR,10
+9,51,moderate,high,low_protein,False,True,True,Adderall XR,10
+10,64,good,low,high_protein,True,True,False,Strattera,64
+12,65,poor,medium,high_protein,True,True,True,Strattera,65
+10,26,poor,low,balanced,True,True,False,Kapvay,10
+9,31,poor,low,low_protein,False,False,False,Strattera,31
+12,38,poor,medium,low_protein,True,False,False,Intuniv,2
+14,31,good,high,high_protein,False,False,False,Vyvanse,30
+13,31,good,low,high_protein,False,False,True,Ritalin,10
+7,55,good,low,low_protein,True,False,True,Kapvay,10
+8,22,moderate,medium,balanced,False,False,False,Ritalin,10
+15,55,poor,low,balanced,False,True,True,Strattera,55
+10,39,poor,medium,low_protein,False,False,False,Intuniv,1
+10,42,good,medium,low_protein,False,False,False,Ritalin,10
+14,49,poor,medium,balanced,False,True,False,Strattera,49
+18,53,good,low,high_protein,False,False,False,Ritalin,10
+14,44,good,high,balanced,True,True,False,Strattera,44
+13,20,poor,high,high_protein,False,False,True,Kapvay,10
+15,55,moderate,high,low_protein,True,False,True,Intuniv,2
+7,43,good,high,low_protein,True,False,False,Kapvay,10
+13,28,moderate,low,balanced,True,False,False,Kapvay,10
+10,38,good,medium,low_protein,False,False,True,Ritalin,10
+16,36,moderate,low,balanced,False,True,False,Ritalin,10
+14,66,poor,medium,high_protein,False,False,False,Kapvay,10
+11,49,moderate,high,balanced,False,True,True,Adderall XR,10
+11,26,good,low,high_protein,True,False,False,Kapvay,10
+10,24,good,medium,high_protein,False,False,False,Adderall XR,10
+11,22,good,medium,balanced,True,True,True,Kapvay,10
+6,52,moderate,medium,balanced,True,True,True,Kapvay,10
+17,21,moderate,high,low_protein,False,True,False,Adderall XR,10
+14,56,poor,high,low_protein,False,False,False,Intuniv,2
+13,43,poor,low,balanced,True,True,False,Strattera,43
+7,68,moderate,low,balanced,False,True,False,Ritalin,10
+14,65,poor,high,balanced,True,False,True,Vyvanse,50
+17,42,moderate,medium,low_protein,False,True,True,Ritalin,10
+7,32,moderate,high,high_protein,True,False,True,Kapvay,10
+16,58,good,high,low_protein,False,False,True,Adderall XR,10
+9,53,good,medium,balanced,False,True,True,Ritalin,10
+18,36,poor,low,low_protein,False,True,True,Strattera,36
+12,24,poor,low,balanced,False,False,False,Kapvay,10
+11,66,moderate,low,high_protein,True,True,False,Strattera,66
+15,25,poor,medium,high_protein,True,False,False,Kapvay,10
+11,32,moderate,high,high_protein,True,False,False,Intuniv,1
+14,62,good,medium,high_protein,True,False,True,Intuniv,2
+15,54,good,medium,low_protein,False,True,True,Ritalin,10
+12,43,moderate,medium,balanced,True,True,True,Strattera,43
+8,53,moderate,medium,balanced,False,True,False,Ritalin,10
